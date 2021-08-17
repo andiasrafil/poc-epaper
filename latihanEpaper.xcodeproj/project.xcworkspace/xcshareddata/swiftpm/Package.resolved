@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "PSPDFKit",
+        "repositoryURL": "https://github.com/PSPDFKit/PSPDFKit-SP",
+        "state": {
+          "branch": "master",
+          "revision": "5e6d5cd0c397f5fc4aad465a24a412823572dbdb",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
